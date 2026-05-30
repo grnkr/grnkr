@@ -151,7 +151,7 @@ Blockchain-based security and transaction management platform.
 [www.linkedin.com/in/gangireddynitishkumar](http://www.linkedin.com/in/gangireddynitishkumar)
 
 🐙 GitHub:
-github.com/grnkr
+[www.github.com/grnkr](http://www.github.com/grnkr)
 
 📍 Vijayawada, Andhra Pradesh, India
 
