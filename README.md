@@ -1,118 +1,171 @@
-# 👋 Hi, I'm Nitish Kumar Gangireddy
+# 👋 Hi, I'm Gangireddy Nitish Kumar
 
-🚀 **Python Developer | Software Trainer | Web Application Developer**  
-📍 Vijayawada, Andhra Pradesh, India  
+## 🚀 Software Developer | Python Developer | Full Stack Developer | Technical Trainer
 
-📧 Email: nitishkumargangireddy@gmail.com  
-📞 Phone: +91 6302137147  
-🔗 LinkedIn: [gangireddynitishkumar](https://www.linkedin.com/in/gangireddynitishkumar)  
-💻 GitHub: [grnkr](https://github.com/grnkr)
+📍 Vijayawada, Andhra Pradesh, India
 
 ---
 
-## 🧑‍💻 About Me
-I’m a **Python Developer with 4+ years of combined professional and hands-on experience** in:
-- Python-based web development  
-- Automation & data-driven applications  
-- Backend development using Django & Flask  
+## 💫 About Me
 
-I actively use **AI-assisted development tools** like ChatGPT, Claude AI, GitHub Copilot, DeepSeek, and offline LLMs (Ollama) to improve **code quality, speed, and documentation**.
+I am an MCA Graduate and Software Developer passionate about building innovative software solutions, web applications, mobile applications, AI-powered systems, and cybersecurity projects.
+
+I have experience as a Technical Trainer and Software Developer, delivering industry-oriented training programs and developing real-world applications using modern technologies.
+
+### 🔥 Areas of Interest
+
+* Python Development
+* Full Stack Development
+* Web Application Development
+* Mobile Application Development
+* Artificial Intelligence & Machine Learning
+* Cybersecurity
+* Blockchain Technology
+* Data Science
+* Cloud Computing
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 Education
 
-### 🔹 Programming
-- Python
+### Master of Computer Applications (MCA)
 
-### 🔹 Web Frameworks
-- Django  
-- Flask  
+DVR & DR. HS MIC College of Technology
+2023 – 2025
 
-### 🔹 Data Science & AI
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Machine Learning  
+### Bachelor of Science (Mathematics, Statistics & Computer Science)
 
-### 🔹 Databases
-- MySQL  
-- Oracle  
-- SQLite  
-
-### 🔹 APIs & Formats
-- RESTful APIs  
-- JSON  
-
-### 🔹 Tools & Platforms
-- Git & GitHub  
-- Anaconda  
-- Visual Studio Code  
-- Jupyter Notebook  
-- Linux  
+Triveni Junior & Degree College
+2018 – 2021
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Python Web & Automation Projects (Self-Driven) | Ongoing
-- Developed Django & Flask web applications with authentication and database integration  
-- Built RESTful APIs and optimized backend performance & security  
-- Created automation scripts and applied basic ML for analytics & reporting  
+### Technical Trainer
 
-### 🔹 EduSkills – Data Science Master Virtual Internship | Apr 2024 – Jun 2024
-- Worked on Python-based data analysis and machine learning  
-- Built predictive models using real-world datasets  
+APSSDC Naipunyam Program
 
-### 🔹 Vision Computers – Software Trainer cum Developer | Dec 2021 – Dec 2023
-- Delivered hands-on training in Python and Web Technologies  
-- Developed Python-based web applications for learning and practice  
+* Delivered Android Development training
+* Delivered Django Web Development training
+* Delivered Blockchain Fundamentals training
+* Conducted Data Visualization workshops
+* Trained 500+ engineering students
+* Guided students in real-time projects
 
----
+### Software Trainer cum Developer
 
-## 🚀 Project Areas
+Vision Computers
+Dec 2021 – Dec 2023
 
-### 🌐 Python Web Applications
-**Tech:** Python, Django, Flask, REST APIs, MySQL, SQLite  
-- Secure authentication-based applications  
-- Backend optimization and API development  
-
-### ⚙️ Automation & Data Processing
-**Tech:** Python, Linux  
-- Data extraction and reporting automation  
-- Workflow optimization scripts  
-
-### 📊 Data Science & Machine Learning
-**Tech:** Pandas, NumPy, Scikit-learn  
-- Predictive models and analytics pipelines  
-
-### 🤖 AI-Assisted Development
-**Tech:** ChatGPT, Claude AI, GitHub Copilot, DeepSeek, Ollama  
-- Code generation, debugging, optimization, and documentation  
+* Trained students in Python, Java, PHP, Android Development
+* Developed web applications using PHP and MySQL
+* Conducted workshops and practical sessions
+* Mentored students in software development projects
 
 ---
 
-## 🎓 Certifications
-- **Joy of Computing using Python** – NPTEL (IIT Madras)  
-- **Blue Prism Intelligent Automation Virtual Internship** – SS&C | Blue Prism  
-- **Altair Data Science Master Virtual Internship** – Altair | EduSkills | AICTE  
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Mobile Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### Cybersecurity & Blockchain
+
+* Cybersecurity Fundamentals
+* Ethical Hacking
+* Kali Linux
+* Blockchain Fundamentals
+* Internet Computer Protocol (ICP)
+* Smart Contracts
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=android-studio\&logoColor=white)
 
 ---
 
-## 🎓 Education
-- **Master of Computer Applications (MCA)** (2023 – 2025)  
-  DVR & Dr. HS MIC College of Technology, Kanchikacherla  
+## 🚀 Featured Projects
 
-- **B.Sc (MSCs – Mathematics, Statistics & Computer Science)** (2018 – 2021)  
-  Triveni Junior & Degree College, Vijayawada  
+### 📈 Cryptocurrency Price Prediction
+
+Machine Learning-based cryptocurrency forecasting system using Python and data analysis techniques.
+
+### 📊 Stock Market Trend Analysis
+
+Financial market analysis and trend prediction system using technical indicators and machine learning.
+
+### 🎓 Live Classes LMS
+
+Learning Management System with student management, online classes, and course tracking.
+
+### 💊 MediSwift
+
+Medicine delivery and management application with ordering and tracking functionality.
+
+### 🔐 BlockSecure
+
+Blockchain-based security platform focusing on secure digital transactions and data integrity.
 
 ---
 
-## 🤝 Let’s Connect
-I’m interested in:
-- Python Developer roles  
-- Backend / Web Development  
-- Data Science & Automation projects  
-- Software Training & Mentorship  
+## 📜 Certifications
 
-⭐ Feel free to explore my repositories and connect with me!
+* Joy of Computing using Python – NPTEL (IIT Madras)
+* Data Science Master Virtual Internship – EduSkills
+* Blue Prism Intelligent Automation Virtual Internship
+* APSSDC Training Programs
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grnkr\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grnkr\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [nitishkumargangireddy@gmail.com](mailto:nitishkumargangireddy@gmail.com)
+
+📱 Phone: +91 6302137147
+
+💼 LinkedIn:
+https://www.linkedin.com/in/gangireddynitishkumar
+
+🐙 GitHub:
+https://github.com/grnkr
+
+📍 Vijayawada, Andhra Pradesh, India
+
+---
+
+### 💡 Motto
+
+"Learning, Building, Teaching, and Growing Through Technology."
