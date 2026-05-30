@@ -141,13 +141,15 @@ Blockchain-based security platform focusing on secure digital transactions and d
 * APSSDC Training Programs
 
 ---
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grnkr\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=grnkr&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grnkr\&layout=compact\&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grnkr&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 ---
 
 ## 🌐 Connect With Me
